@@ -1,5 +1,9 @@
 *.pyc
 __pycache__
 mapas
+bin
+include
+lib
+local
 db.sqlite3
 .DS_Store
