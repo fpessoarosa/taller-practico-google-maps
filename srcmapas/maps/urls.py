@@ -1,6 +1,7 @@
 from django.conf.urls import include, url
 from . import views
 
+# https://github.com/fpessoarosa/taller-practico-google-maps.git
 urlpatterns = [
     url(r'^$', views.index),
     url(r'^index/$', views.index, name='index'),
